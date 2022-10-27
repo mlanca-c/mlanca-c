@@ -14,17 +14,6 @@
 
 ---
 
-### :woman_technologist: About Me :
-- :telescope: I’m working as a Junior Developer and completing my education at [42 Lisboa](https://www.42lisboa.com).
-
-- :seedling: Exploring neovim and arch.
-
-- :woman_swimming: On my free time I like to surf in those web waves and prevente people from drowing 
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-sottomayor-8a6866209/)
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
